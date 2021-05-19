@@ -1,7 +1,7 @@
 # Teensy41_240x240_LCD_CANFD_test
  
  Demo sketch for use with:
- * http://skpang.co.uk/catalog/teensy-41-triple-can-board-with-240x240-ips-lcd-p-1592.html
+ * https://www.skpang.co.uk/collections/teensy/products/teensy-4-1-triple-can-board-with-240x240-ips-lcd
  *  
  * can1 baudrate 500kbps
  * 
